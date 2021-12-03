@@ -1,0 +1,32 @@
+File name  :	Links-fb-pages.net
+
+Directed   :	False
+Weighted   :	False
+Signed     :	False
+Connected  :	False
+
+Vertices   :	3803
+Edges      :	17241
+Self-loops :	24
+
+Total degree   :	34458
+Average degree :	9.06074151985275E+0
+Minimum degree :	1
+Maximum degree :	126
+
+Asymmetry   :	0.00000000000000
+Reciprocity :	1.00000000000000E+0
+Asymmetry ignoring self-loops   :	0.00000000000000
+Reciprocity ignoring self-loops :	1.00000000000000E+0
+
+Average entropy :	2.31332266113543E+0
+
+Assortativity (Pearson)  :	5.16603875986325E-1
+Assortativity (Spearman) :	5.75727278768253E-1
+Assortativity Error (Pearson)  :	5.72812712255655E-3
+Assortativity Error (Spearman) :	4.02894508697010E-3
+
+Average clustering coefficient :	3.31878695676197E-1
+
+Efficiency          :	2.00462246360142E-1
+
